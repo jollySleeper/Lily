@@ -83,7 +83,7 @@ This question is the most important in terms of deciding the scale of system.
 ## Diagrams
 
 ### Simple Overview of the Ingestion System
-![Lily Micro-Service Design](./Lily-Service1.png)
+![Lily Micro-Service Design](./Lily-Service.png)
 
 ### Platform Overview
 - This is a multi-tenant Architecture.
