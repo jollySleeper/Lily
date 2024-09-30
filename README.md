@@ -28,7 +28,7 @@ This question is the most important in terms of deciding the scale of system.
     - **Google Cloud Platform (GCP)**
     - **Microsoft Azure**
 - We will be using the **Kubernetes** Platform of each cloud provider which will help us desgin most parts uniformly and will prevent overhead of managing differences of each cloud infrastructure as and will also save us from vendor lock-in.
-- Other things that would be needed to manage for different cloud platforms can be done using Terraform so that's it's easy to mange.
+- Other things that would be needed to manage for different cloud platforms can be done using **Terraform** so that's it's easy to manage, as Terraform provides the ability of drafting our Infrastructure as Code.
 - We will be using the block storage & load balancers natively provided by each cloud plaform. That's something we will have to integrate with differences of each platform respectively.
 
 ## Architecture
@@ -83,7 +83,7 @@ This question is the most important in terms of deciding the scale of system.
 ## Diagrams
 
 ### Simple Overview of the Ingestion System
-![Lily Micro-Service Design](./Lily-Service.png)
+![Lily Micro-Service Design](./Lily-Service1.png)
 
 ### Platform Overview
 - This is a multi-tenant Architecture.
